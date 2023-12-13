@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          원미현
+          원미현 포트폴리오 체크리스트
         </p>
         <a
           className="App-link"
